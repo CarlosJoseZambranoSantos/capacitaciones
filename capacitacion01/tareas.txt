@@ -1,0 +1,9 @@
+PPT:
+ https://docs.google.com/presentation/d/19gKGwAyOKH7xEVnsmU8tqcjyn7aLPxlW7h4MRATcFTE/edit#slide=id.p
+Tareas:
+ Instalar Atom
+ Revisar FlexBox:
+  - https://www.youtube.com/watch?v=F-KCncXMPk0
+  - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ Temario:
+  - https://docs.google.com/document/d/168faPpnpj-tps9hIA6X7awnFoyBfF3FcgLgKotGCE7M/edit?usp=sharing
